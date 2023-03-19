@@ -7,7 +7,6 @@ const Header = () => {
             <Icon>
                 <LockOutlined />
             </Icon>
-
             <Title>Iniciar sesión</Title>
         </StyledHeader>
     );
